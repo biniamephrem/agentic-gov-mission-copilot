@@ -229,17 +229,3 @@ The evaluator checks:
 | Government stakeholder communication | `docs/STAKEHOLDER_BRIEF.md` |
 | Context management | Mission state object persisted through orchestration |
 
-## Interview demo flow
-
-1. Explain the mission problem in 60 seconds.
-2. Walk through the architecture diagram.
-3. Run a question that only needs analysis.
-4. Run a question that proposes a high-impact action.
-5. Show that the agent stops at the human approval boundary.
-6. Approve it and show the simulated tool result.
-7. Open the audit log and evaluation report.
-8. Explain how you would replace demo components with agency-approved services.
-
-## License
-
-MIT. See `LICENSE`.
